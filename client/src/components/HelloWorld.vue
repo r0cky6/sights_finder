@@ -1,10 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+    <p style="font-size: 3rem; font-weight: 700; max-width: 400px; margin: 0 auto;">
+      Look at THAT. It's W O R K I N G
     </p>
     <h3>Installed CLI Plugins</h3>
     <ul>
