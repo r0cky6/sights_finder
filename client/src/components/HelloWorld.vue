@@ -4,7 +4,7 @@
     <p style="font-size: 3rem; font-weight: 700; max-width: 400px; margin: 0 auto;">
       Look at THAT. It's W O R K I N G
     </p>
-    <h3>Changed from Github</h3>
+    <h3>Only this line was changed from Github</h3>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
